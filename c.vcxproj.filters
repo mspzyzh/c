@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="zxys.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="ysfyxj.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1.1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
