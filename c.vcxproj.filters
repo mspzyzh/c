@@ -21,5 +21,8 @@
     <ClCompile Include="zxys.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ysfyxj.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
